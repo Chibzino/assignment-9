@@ -1,0 +1,109 @@
+.first{
+  margin-bottom: 0;
+}
+.input1{
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: large;
+  font-family: sans-serif;
+}
+.input2{
+  display: block;
+  font-size: large;
+  font-family: sans-serif;
+  margin-bottom: 2rem;
+}
+.second{
+  margin-bottom: 0;
+}
+.paragraph{
+  display: inline-block;
+  width: 200px;
+  font-size: 1.2rem;margin-top: 0%;
+  margin-bottom: 2rem;
+}
+.button{
+  display: inline-block;
+}
+.third{
+  margin-bottom: 0%;
+}
+.google-image{
+  margin-top: 0%;
+  height: 150px;
+  width: 300px;
+  display: block;
+ margin-left: 100px;
+ margin-bottom: 0%;
+}
+.search{
+  margin-top: 0%;
+  width: 400px;
+  height: 1.6rem;
+  border-radius: 2rem;
+  border-width: 1px;
+  margin-bottom: 2rem;
+}
+.first-name{
+  width: 100px;
+  display: inline-block;
+  margin-bottom: 1rem;
+  height: 1.3rem;
+  margin-right: 1rem;
+  border-radius: 0.3rem;
+  border-width: 1px;
+}
+.email1{
+  display: block;
+  width: 220px;
+  height: 1.3rem;
+  margin-bottom: 1rem;
+}
+.sign-button
+{
+  background-color: rgb(39, 39, 230);
+  width: 230px;
+  height: 2.5rem;
+  color: white;
+  font-size: large;
+  font-family: serif;
+  border: none;
+  border-radius: 2rem;
+  margin-bottom: 2rem;
+}
+.enter{
+  display: block;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  background-color: rgb(202, 206, 206);
+  height: 2rem;
+  width: 220px;
+  border: none;
+}
+.destination{
+  display: block;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  background-color: rgb(202, 206, 206);
+  height: 2rem;
+  width: 220px;
+  border: none;
+}
+.ride{
+  font-family: sans-serif;
+}
+.request-button{
+  background-color: black;
+  color: white;
+  height: 2rem;
+  width: 100px;
+  margin-right: 1rem;
+  border: 0;
+}
+.schedule-button{
+  background-color: rgb(211, 214, 216);
+  color: black;
+  height: 2rem;
+  width: 150px;
+  border: 0;
+}
